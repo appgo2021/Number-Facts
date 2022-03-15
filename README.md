@@ -8,7 +8,7 @@ In this app, when the user types the random number, its fetch the data from the 
 
 * HTML
 * CSS, Bootstrap
-* Javascript
+* JavaScript
 * Fetch API, AJAX
 
 ## Build in function
